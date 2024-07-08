@@ -63,7 +63,7 @@
 <h2>Projects</h2>
 
 <ul>
-  <li><a href="https://github.com/mikeKaufman310/Collection-Hub">ColletionHub</a>: A React, Spring Boot, PostgreSQL solution to tracking hobbies and finding needed additions to your collections</li>
+  <li><a href="https://github.com/mikeKaufman310/Collection-Hub">CollectionHub</a>: A React, Spring Boot, PostgreSQL solution to tracking hobbies and finding needed additions to your collections</li>
   <li><a href="https://github.com/mikeKaufman310/Black-Jack">Black Jack</a>: An HTML5, CSS3 and JavaScript web app, with a Java Apache Spark Backend, that simulates a two person game of black jack</li>
   <li><a href="https://github.com/mikeKaufman310/aries-framework-oracle">DID Resolver Driver</a>: A TypeScript, Node.js application that calls Oracle Blockchain API's to resolve and manipulate verifiable crendentials with DIDs stored on a blockchain</li>
 </ul>
